@@ -12,8 +12,7 @@ from homeassistant.helpers.entity_platform import AddEntitiesCallback
 
 from .const import (
     DOMAIN,
-    MANUFACTURER,
-    DEVICE_NAME,
+    MANUFACTURER
 )
 
 _LOGGER = logging.getLogger(__name__)
