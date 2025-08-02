@@ -11,6 +11,5 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/marcomoretti/netatmo-integration/issues",
   "requirements": ["requests"],
-  "version": "0.1.1",
-  "brand": "netatmo"
+  "version": "0.1.2"
 }
