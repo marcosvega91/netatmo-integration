@@ -1,0 +1,6 @@
+{
+  "name": "Netatmo Integration",
+  "render_readme": true,
+  "hacs": "0.2.2",
+  "homeassistant": "2022.6"
+}

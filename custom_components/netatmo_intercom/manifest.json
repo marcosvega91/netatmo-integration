@@ -1,0 +1,15 @@
+{
+  "domain": "netatmo_intercom",
+  "name": "Netatmo Video Intercom Integration",
+  "codeowners": [
+    "@marcomoretti"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/marcomoretti/netatmo-integration",
+  "integration_type": "device",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/marcomoretti/netatmo-integration/issues",
+  "requirements": ["requests"],
+  "version": "0.1.0"
+}
